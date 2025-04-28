@@ -863,6 +863,9 @@ section,
 /*--------------------------------------------------------------
 # About Section
 --------------------------------------------------------------*/
+.custom-rounded {
+  border-radius: 19%;
+}
 .about .about-image {
   position: relative;
 }
